@@ -207,10 +207,10 @@ nav ul li:hover a {color:#FFFFFF;}
 .footerbg .gridboximg { width:36%; float:left; margin-right:1%; margin-top:2%; }
 
 .footerbg .gridboxleft .title { width:100%; float:left;font-family: 'Arial'; font-size:17px; color:#fff; padding:15px 0px;font-weight:bold; }
-.footerbg .gridboxleft .grid-txt { font-size:14px; color:#888787; margin:0; padding-top:5%; width:95%; float:left;  }
+.footerbg .gridboxleft .grid-txt { font-size:14px; color:#888787; margin:0; padding-top:1%; width:95%; float:left;  }
 
 .footerbg .gridboxright .title { width:100%; float:left;font-family: 'Arial'; font-size:17px; color:#fff; padding:15px 0px;font-weight:bold; }
-.footerbg .gridboxright .grid-txt { font-size:14px; color:#888787; margin:0; padding-top:5%; width:95%; float:left; }
+.footerbg .gridboxright .grid-txt { font-size:14px; color:#888787; margin:0; padding-top:1%; width:95%; float:left; }
 
 .footerbluestrip { background-color:#3e9f00; height:40px; }
 .footergraytrip { background-color:#fefefe; height:40px; }
