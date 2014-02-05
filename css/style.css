@@ -161,7 +161,7 @@ hr{ border-bottom:2px solid #00a228; border-top:none;}
 .topwrapper{ max-width:940px; margin:0 auto; }
 .top {width:100%; float:left; background:#3b3b3b; padding:4px 0 1px 0;}
 .logo { width:25%; float:left; text-align:center; padding:15px 0 13px 0; }
-.login-box { float:right; width:27%; padding:5px 0px 0px 0px; }
+.login-box { float:right; width:37%; padding:5px 0px 0px 0px; }
 .login-box a { width:30%; color:#a6a5a5; font-size:0.875em; padding:4px 3px; margin:2px 12px; text-decoration:none; }
 .login-box span { color:#5a5a5a; }
 
